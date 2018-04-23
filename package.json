@@ -1,0 +1,28 @@
+{
+  "name": "scraper.js",
+  "version": "1.0.0",
+  "description": "web scraper app built on node.js",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msicakkanli/tech-6-project.git"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "MSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msicakkanli/tech-6-project/issues"
+  },
+  "homepage": "https://github.com/msicakkanli/tech-6-project#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.1.2"
+  },
+  "devDependencies": {}
+}
